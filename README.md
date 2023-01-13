@@ -89,9 +89,12 @@ MODERN CSS
 
 ### Q&A and Live Chat
 
-- 2021.12.31 JS-Detection Device-Viewport, MarcusMorba
+- 2021.12.31 JS-Detection Device-Viewport, MarcusMorba 
 https://codepen.io/epo-mm/pen/OJxxzEv
+
 [ Conversation: https://twitter.com/a11y_mmo/status/1613598591917883408 ]
+
+Note: Please be aware, that Apple devices may display different default device pixel ratios than windows, due to the retina displays.
 
 
 
