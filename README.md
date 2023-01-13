@@ -13,11 +13,6 @@ Notes and Resources for talk "Redesigning for Cognitive Ease"
 - Filter Animation Playground, Alyssa Panetta
   https://codepen.io/alyssapanetta/pen/wvxKVOr
 
-- 2021.12.31 JS-Detection Device-Viewport, MarcusMorba
-https://codepen.io/epo-mm/pen/OJxxzEv
-[ Conversation: https://twitter.com/a11y_mmo/status/1613598591917883408 ]
-
-
 ## SLIDES
 
 Redesigning for Cognitive Ease - a11ytalks, Alyssa Panetta
@@ -91,6 +86,14 @@ MODERN CSS
 
 - No-hamburger Mobile Nav Toggle, Alyssa Panetta
   https://codepen.io/alyssapanetta/pen/OJwWvVX
+
+### Q&A and Live Chat
+
+- 2021.12.31 JS-Detection Device-Viewport, MarcusMorba
+https://codepen.io/epo-mm/pen/OJxxzEv
+[ Conversation: https://twitter.com/a11y_mmo/status/1613598591917883408 ]
+
+
 
 ## See Also
 
