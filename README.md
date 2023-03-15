@@ -11,9 +11,123 @@ Notes and Resources for talk "Redesigning for Cognitive Ease" as presented at Ax
 Redesigning for Cognitive Ease - axecon 2023, Alyssa Panetta
 https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWSFH5EhcHoEoaKQBQBM8cF_D3LwJl-Rk0ozIYv5A
 
-## Links by Topic
 
-### NEWSLETTERS:
+## Possible Upgrades, slide 62
+
+- Convert Type and Spacing to Flexible Units 
+  - **LEARN**
+    - Generating `font-size` CSS Rules and Creating a Fluid Type Scale, Stephanie Eckles
+    https://moderncss.dev/generating-font-size-css-rules-and-creating-a-fluid-type-scale/
+    - Guide to CSS Units for Relative Spacing, Stephanie Eckles
+    https://dev.to/5t3ph/guide-to-css-units-for-relational-spacing-1mj5
+    - Accessible Typography Essentials (video - requires registration), Carie Fisher
+    https://www.deque.com/axe-con/sessions/accessible-typography-essentials/
+
+  - **USE THIS UTILITY**
+    - UTOPIA. Fluid Responsive Design, James Gilyead & Trys Mudford
+      - Introduction Video: https://utopia.fyi/blog/an-introduction-video
+      - Fluid Type Scale Calculator: https://utopia.fyi/type/calculator
+      - Fluid Space Calculator: https://utopia.fyi/space/calculator
+  
+---
+
+- Convert a Page Layout to CSS Grid and Math
+  - **LEARN**
+    - Grid by Example, Rachel Andrew
+      https://gridbyexample.com/
+
+    - Layout Land (youtube channel), Jen Simmons
+      https://www.youtube.com/layoutland
+
+    - 3 CSS Grid Techniques to Make You a Grid Convert, Stephanie Eckles
+      https://moderncss.dev/3-css-grid-techniques-to-make-you-a-grid-convert/
+
+    - Container Query Solutions with CSS Grid and Flexbox, Stephanie Eckles
+      https://moderncss.dev/container-query-solutions-with-css-grid-and-flexbox/
+  
+    - Practical Uses of CSS Math Functions: calc, clamp, min, max, Stephanie Eckles
+      https://moderncss.dev/practical-uses-of-css-math-functions-calc-clamp-min-max/
+
+    - Solutions to Replace the 12-Column Grid, Stephanie Eckles
+      https://moderncss.dev/solutions-to-replace-the-12-column-grid/
+
+    - 3 Popular Website Heroes Created With CSS Grid Layout, Stephanie Eckles
+      https://moderncss.dev/3-popular-website-heroes-created-with-css-grid-layout/
+
+  - **USE THIS UTILITY**
+    - UTOPIA. Fluid Responsive Design, James Gilyead & Trys Mudford
+    https://utopia.fyi/
+      - Introduction Video: https://utopia.fyi/blog/an-introduction-video
+      - Fluid Grid Calculator: https://utopia.fyi/grid/calculator
+
+
+
+--- 
+
+- Add preference queries
+  - Preference Queries, Stephanie Eckles
+            https://12daysofweb.dev/2021/preference-queries/
+  - Making Motion Inclusive, Val Head
+            https://aneventapart.com/news/post/making-motion-inclusive-aea-video
+  - An Introduction to the Reduced Motion Media Query, Eric Bailey
+            https://css-tricks.com/introduction-reduced-motion-media-query/
+
+
+---
+
+- Migrate from media queries to container queries
+
+    - The Guide To Responsive Design In 2023 and Beyond, Ahmad Shadeed
+      https://ishadeed.com/article/responsive-design/
+    - A Primer On CSS Container Queries, Stephanie Eckles
+      https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/
+    - Use the Right Container Query Syntax, Miriam Suzanne
+      https://www.oddbird.net/2022/08/18/cq-syntax/
+    - A CodePen collection of container query examples
+      https://codepen.io/collection/XQrgJo
+    - CSS container queries are finally here, Ahmad Shadeed
+    https://ishadeed.com/article/container-queries-are-finally-here/
+
+---
+
+- Clean up your headings
+  - `<h1>–<h6>`: The HTML Section Heading elements, MDN contributors
+  https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+
+  - HTML for Subheadings and Headings, Chris Coyier
+  https://css-tricks.com/html-for-subheadings-and-headings/
+
+---
+
+- Add texts to icons/icons to text
+  - Fontawesome 
+    https://fontawesome.com/
+  - The Noun Project
+    https://thenounproject.com/
+  - Flaticon
+    https://www.flaticon.com/
+
+---
+
+- Add transform/transition where only changed color before
+  - transform, Sara Cope 
+  https://css-tricks.com/almanac/properties/t/transform/
+  - transition, Sara Cope 
+  https://css-tricks.com/almanac/properties/t/transition/
+  - CSS Transitions, W3C 
+  https://www.w3.org/TR/css-transitions-1/#animatable-properties
+
+---
+
+- Improve “micro-interactions” like navigation switches
+
+  - No-hamburger Mobile Nav Toggle, Alyssa Panetta
+    https://codepen.io/alyssapanetta/pen/OJwWvVX
+
+  - Simple Guidelines When You Design for Mobile, Interaction Design Foundation
+    https://www.interaction-design.org/literature/article/designing-for-the-mobile-environment-some-simple-guidelines
+
+## NEWSLETTERS:
  
 - The A11Y Project
  https://www.a11yproject.com/newsletter/
@@ -33,6 +147,7 @@ https://frontendfoc.us/
 - Webdev Newsletter (plain text listserv), University of Minnesota Deluth 
 https://www.d.umn.edu/itss/training/online/webdesign/webdev_listserv.html
 
+## Links by Topic
 ### ACCESSIBLITY:
 
 - Keys To An Accessibility Mindset
@@ -77,6 +192,9 @@ https://www.d.umn.edu/itss/training/online/webdesign/webdev_listserv.html
 - Cognitive Overlords, Alex Tait, a11ytalks October 2022
   https://a11ytalks.com/posts/2022-OCT
 
+- Building for the Brain: designing for cognitive inclusion, Microsoft Ability Summit 2023. Presenters: Cathy Bodin | Coleman Institute for Cognitive Disabilities, Christina Mallon | Microsoft, Doug Kim | Microsoft, Jen White-Johnson
+https://abilitysummit.event.microsoft.com/#sectionOuter11
+
 - Neurodiversity Design System, Will Soward
  https://neurodiversity.design
 
@@ -89,12 +207,23 @@ https://www.d.umn.edu/itss/training/online/webdesign/webdev_listserv.html
 - Accessible Target Sizes, Lupe, Craft CMS
  https://craftcms.com/blog/accessible-target-sizes
 
+- UX Principles that include Cognitive Accessibility, Gareth Ford Williams
+https://uxdesign.cc/adhd-dyslexic-perspective-on-cognitive-accessibility-using-cognitive-ux-design-principles-f46349a609d6
 
 
 ### HTML:
-- Learn HTML! web.dev course, Estelle Weyl with input and review from Rachel Andrew and Jhey Tompkins
+ - Learn HTML! web.dev course, Estelle Weyl with input and review from Rachel Andrew and Jhey Tompkins
     https://web.dev/learn/html/
+   
+ - Beginners’ Guide To Writing Good HTML, Bruce Lawson
+   https://websitesetup.org/html-tutorial-beginners/
 
+ - HTML Tutorial, W3Schools
+ https://www.w3schools.com/html/
+
+ - 15 Days of HTML, Jen Kramer
+   - https://jen4web.substack.com
+   - https://learnwithjen.com/l/30daysofhtml
 
 ### CSS:
    
@@ -105,29 +234,45 @@ https://www.d.umn.edu/itss/training/online/webdesign/webdev_listserv.html
   - Fluid Space Calculator: https://utopia.fyi/space/calculator
   - Fluid Grid Calculator: https://utopia.fyi/grid/calculator
 
-- Visual design rules you can safely follow every time, Anthony Hobday
-   https://anthonyhobday.com/sideprojects/saferules/
+  - Visual design rules you can safely follow every time, Anthony Hobday
+    https://anthonyhobday.com/sideprojects/saferules/
 
-- The Guide To Responsive Design In 2023 and Beyond, Ahmad Shadeed
- https://ishadeed.com/article/responsive-design/
+  - The Guide To Responsive Design In 2023 and Beyond, Ahmad Shadeed
+  https://ishadeed.com/article/responsive-design/
 
-- Learn CSS Positioning, Ahmad Shadeed
- https://ishadeed.com/article/learn-css-positioning/
+  - Learn CSS Positioning, Ahmad Shadeed
+  https://ishadeed.com/article/learn-css-positioning/
 
-- 100 Days Of More Or Less Modern CSS
- https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/
+  - Learn Box Alignment, Ahmad Shadeed
+  https://ishadeed.com/article/learn-box-alignment/
 
-- Weekly front-end web development & design tips, tricks, and tutorials
- https://www.youtube.com/@KevinPowell
+  - 100 Days Of More Or Less Modern CSS, Manuel Matuzović
+  https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/
 
+  - Weekly front-end web development & design tips, tricks, and tutorials, Kevin Powell
+  https://www.youtube.com/@KevinPowell
+
+  - Useful & Responsive Layouts, no Media Queries required, Kevin Powell
+  https://www.youtube.com/watch?v=p3_xN2Zp1TY
+
+  - Conquering Responsive Layouts (free course), Kevin Powell
+  https://courses.kevinpowell.co/conquering-responsive-layouts
+
+- Every Layout, Heydon Pickering & Andy Bell 
+ https://every-layout.dev/ ($69 for full access)
+  - Freebies:
+    - The Stack https://every-layout.dev/layouts/stack/
+    - The Sidebar https://every-layout.dev/layouts/sidebar/
+    - The Cover https://every-layout.dev/layouts/cover/
+    - Rudiments https://every-layout.dev/rudiments/boxes/
 
 #### CONTAINER QUERIES: 
 
 - A Primer On CSS Container Queries, by Stephanie Eckles
 https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/
 
-- Use the Right Container Query Syntax, by Miriam Suzanne
-https://www.oddbird.net/2022/08/18/cq-syntax/
+  - Use the Right Container Query Syntax, by Miriam Suzanne
+  https://www.oddbird.net/2022/08/18/cq-syntax/
 
 - A CodePen collection of container query examples by Miriam Suzanne
 https://codepen.io/collection/XQrgJo
