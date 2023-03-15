@@ -77,15 +77,15 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
 
 ### Migrate from media queries to container queries
 
-    - The Guide To Responsive Design In 2023 and Beyond, Ahmad Shadeed
+ - The Guide To Responsive Design In 2023 and Beyond, Ahmad Shadeed
       https://ishadeed.com/article/responsive-design/
-    - A Primer On CSS Container Queries, Stephanie Eckles
+ - A Primer On CSS Container Queries, Stephanie Eckles
       https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/
-    - Use the Right Container Query Syntax, Miriam Suzanne
+ - Use the Right Container Query Syntax, Miriam Suzanne
       https://www.oddbird.net/2022/08/18/cq-syntax/
-    - A CodePen collection of container query examples
+ - A CodePen collection of container query examples
       https://codepen.io/collection/XQrgJo
-    - CSS container queries are finally here, Ahmad Shadeed
+ - CSS container queries are finally here, Ahmad Shadeed
     https://ishadeed.com/article/container-queries-are-finally-here/
 
 ---
