@@ -6,13 +6,13 @@ Notes and Resources for talk "Redesigning for Cognitive Ease" as presented at Ax
 - No-hamburger Mobile Nav Toggle
   https://codepen.io/alyssapanetta/pen/OJwWvVX
 
-## SLIDES
+## SLIDES:
 
 Redesigning for Cognitive Ease - axecon 2023, Alyssa Panetta
 https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWSFH5EhcHoEoaKQBQBM8cF_D3LwJl-Rk0ozIYv5A
 
 
-## Possible Upgrades, slide 62
+## Possible Upgrades, slide 62:
 
 ### Convert Type and Spacing to Flexible Units 
   - **LEARN**
@@ -29,7 +29,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
       - Fluid Type Scale Calculator: https://utopia.fyi/type/calculator
       - Fluid Space Calculator: https://utopia.fyi/space/calculator
   
----
+
 
 ### Convert a Page Layout to CSS Grid and Math
   - **LEARN**
@@ -62,7 +62,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
 
 
 
---- 
+ 
 
 ### Add preference queries
   - Preference Queries, Stephanie Eckles
@@ -73,7 +73,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
             https://css-tricks.com/introduction-reduced-motion-media-query/
 
 
----
+
 
 ### Migrate from media queries to container queries
 
@@ -88,7 +88,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
  - CSS container queries are finally here, Ahmad Shadeed
     https://ishadeed.com/article/container-queries-are-finally-here/
 
----
+
 
 ### Clean up your headings
   - `<h1>–<h6>`: The HTML Section Heading elements, MDN contributors
@@ -97,7 +97,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
   - HTML for Subheadings and Headings, Chris Coyier
   https://css-tricks.com/html-for-subheadings-and-headings/
 
----
+
 
 ### Add texts to icons/icons to text
   - Fontawesome 
@@ -107,7 +107,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
   - Flaticon
     https://www.flaticon.com/
 
----
+
 
 ### Add transform/transition where only changed color before
   - transform, Sara Cope 
@@ -117,7 +117,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
   - CSS Transitions, W3C 
   https://www.w3.org/TR/css-transitions-1/#animatable-properties
 
----
+
 
 ### Improve “micro-interactions” like navigation switches
 
@@ -327,4 +327,4 @@ https://github.com/alyssapanetta/developing-a-disability/
 apanetta@albany.edu
 
 #### Meet Talula
-deartalula.com
+https://deartalula.com
