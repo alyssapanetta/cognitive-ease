@@ -14,7 +14,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
 
 ## Possible Upgrades, slide 62
 
-- Convert Type and Spacing to Flexible Units 
+### Convert Type and Spacing to Flexible Units 
   - **LEARN**
     - Generating `font-size` CSS Rules and Creating a Fluid Type Scale, Stephanie Eckles
     https://moderncss.dev/generating-font-size-css-rules-and-creating-a-fluid-type-scale/
@@ -31,7 +31,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
   
 ---
 
-- Convert a Page Layout to CSS Grid and Math
+### Convert a Page Layout to CSS Grid and Math
   - **LEARN**
     - Grid by Example, Rachel Andrew
       https://gridbyexample.com/
@@ -64,7 +64,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
 
 --- 
 
-- Add preference queries
+### Add preference queries
   - Preference Queries, Stephanie Eckles
             https://12daysofweb.dev/2021/preference-queries/
   - Making Motion Inclusive, Val Head
@@ -75,7 +75,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
 
 ---
 
-- Migrate from media queries to container queries
+### Migrate from media queries to container queries
 
     - The Guide To Responsive Design In 2023 and Beyond, Ahmad Shadeed
       https://ishadeed.com/article/responsive-design/
@@ -90,7 +90,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
 
 ---
 
-- Clean up your headings
+### Clean up your headings
   - `<h1>–<h6>`: The HTML Section Heading elements, MDN contributors
   https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 
@@ -99,7 +99,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
 
 ---
 
-- Add texts to icons/icons to text
+### Add texts to icons/icons to text
   - Fontawesome 
     https://fontawesome.com/
   - The Noun Project
@@ -109,7 +109,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
 
 ---
 
-- Add transform/transition where only changed color before
+### Add transform/transition where only changed color before
   - transform, Sara Cope 
   https://css-tricks.com/almanac/properties/t/transform/
   - transition, Sara Cope 
@@ -119,7 +119,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
 
 ---
 
-- Improve “micro-interactions” like navigation switches
+### Improve “micro-interactions” like navigation switches
 
   - No-hamburger Mobile Nav Toggle, Alyssa Panetta
     https://codepen.io/alyssapanetta/pen/OJwWvVX
