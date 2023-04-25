@@ -23,14 +23,13 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
     - Accessible Typography Essentials (video - requires registration), Carie Fisher
     https://www.deque.com/axe-con/sessions/accessible-typography-essentials/
 
-  - **USE THIS UTILITY**
+  - **USE THESE UTILITIES**
     - UTOPIA. Fluid Responsive Design, James Gilyead & Trys Mudford
       - Introduction Video: https://utopia.fyi/blog/an-introduction-video
       - Fluid Type Scale Calculator: https://utopia.fyi/type/calculator
       - Fluid Space Calculator: https://utopia.fyi/space/calculator
-  
-
-
+    - Type Scale: A Visual Calculator: https://typescale.com/
+    - clamp() Calculator: https://chrisburnell.com/clamp-calculator/
 ### Convert a Page Layout to CSS Grid and Math
   - **LEARN**
     - Grid by Example, Rachel Andrew
@@ -53,6 +52,9 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
 
     - 3 Popular Website Heroes Created With CSS Grid Layout, Stephanie Eckles
       https://moderncss.dev/3-popular-website-heroes-created-with-css-grid-layout/
+
+    - Use Cases For Flexbox, Rachel Andrew 
+      https://www.smashingmagazine.com/2018/10/flexbox-use-cases/
 
   - **USE THIS UTILITY**
     - UTOPIA. Fluid Responsive Design, James Gilyead & Trys Mudford
