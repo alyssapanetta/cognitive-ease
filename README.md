@@ -108,8 +108,12 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWS
     https://thenounproject.com/
   - Flaticon
     https://www.flaticon.com/
-
-
+  - Tooltips in the time of WCAG 2.1, Sarah Higley
+  https://sarahmhigley.com/writing/tooltips-in-wcag-21/
+  - Introducing the popover API, Una Kravetz
+  https://developer.chrome.com/blog/introducing-popover-api/
+  - Semantics and the popover attribute: what to use when?, Hidde de Vries   
+  https://hidde.blog/popover-semantics/
 
 ### Add transform/transition where only changed color before
   - transform, Sara Cope 
@@ -186,6 +190,9 @@ https://www.d.umn.edu/itss/training/online/webdesign/webdev_listserv.html
 - Simple Guidelines When You Design for Mobile, Interaction Design Foundation
   https://www.interaction-design.org/literature/article/designing-for-the-mobile-environment-some-simple-guidelines
 
+- Assistive technology demonstrations, Vision Australia
+ https://www.visionaustralia.org/business-consulting/digital-access/resources/assistive-technology-demonstrations
+
 #### COGNITIVE ACCESSIBILITY: 
 
 - Making Content Usable for People with Cognitive and Learning Disabilities
@@ -226,6 +233,11 @@ https://uxdesign.cc/adhd-dyslexic-perspective-on-cognitive-accessibility-using-c
  - 15 Days of HTML, Jen Kramer
    - https://jen4web.substack.com
    - https://learnwithjen.com/l/30daysofhtml
+  
+- New DIALOG Element <dialog>
+    - The New dialog HTML Element Changes Modals Forever, Web Dev Simplified  https://www.youtube.com/watch?v=ywtkJkxJsdg
+    - Dialog, Learn HTML! Chrome Dev Rel 
+    https://web.dev/learn/html/dialog/ 
 
 ### CSS:
    
