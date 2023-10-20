@@ -1,12 +1,18 @@
 # cognitive-ease
-Notes and Resources for talk "Redesigning for Cognitive Ease" as presented at a11yTO 
+Notes and Resources for talk "Redesigning for Cognitive Ease" as presented at AxeCon 2023
+
+## Start Here: Codepen Demo
+
+- No-hamburger Mobile Nav Toggle
+  https://codepen.io/alyssapanetta/pen/OJwWvVX
 
 ## SLIDES:
 
-Redesigning for Cognitive Ease - a11yTO - 2023, Alyssa Panetta
-https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EfksrUWHeeVMrgtf-ciM41sB2RNzlKOnKr7hxO-XiI6LhA
+Redesigning for Cognitive Ease - axecon 2023, Alyssa Panetta
+https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EbYaOgWSFH5EhcHoEoaKQBQBM8cF_D3LwJl-Rk0ozIYv5A
 
-## Possible Upgrades, slide 45:
+
+## Possible Upgrades, slide 62:
 
 ### Convert Type and Spacing to Flexible Units 
   - **LEARN**
@@ -67,8 +73,7 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EfksrUWH
             https://aneventapart.com/news/post/making-motion-inclusive-aea-video
   - An Introduction to the Reduced Motion Media Query, Eric Bailey
             https://css-tricks.com/introduction-reduced-motion-media-query/
-  - CSS And Accessibility: Inclusion Through User Choice, Carie Fisher
-            https://www.smashingmagazine.com/2023/08/css-accessibility-inclusion-user-choice/
+
 
 
 
@@ -149,6 +154,44 @@ https://frontendfoc.us/
 https://www.d.umn.edu/itss/training/online/webdesign/webdev_listserv.html
 
 ## Links by Topic
+### ACCESSIBLITY:
+
+- Keys To An Accessibility Mindset
+ https://www.smashingmagazine.com/2023/02/keys-accessibility-mindset/
+
+- Quick and Small Accessibility
+ https://bite-sized-a11y.com
+
+- Web accessibility checklist (how to test), Magentaa11y (T-mobile)
+ https://www.magentaa11y.com/web/
+
+- Inclusive Design Principles, Contributors: Henny Swan, Ian Pouncey, Heydon Pickering, Léonie Watson
+ https://inclusivedesignprinciples.org
+
+- Designing for Accessibility, UK Home Office
+ https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf
+
+- Federal Plain Language Guidelines, plainlanguage.gov
+ https://www.plainlanguage.gov/guidelines/
+
+- Write good Alt Text to describe images, Harvard University Information Technology
+ https://accessibility.huit.harvard.edu/describe-content-images
+
+- Using CSS to Enforce Accessibility, Adrian Roselli
+ https://adrianroselli.com/2021/06/using-css-to-enforce-accessibility.html
+
+- Accessible Components, Scott O'Hara
+ https://github.com/scottaohara/accessible_components
+
+- Accessible Brand Colors, Use All Five
+ https://abc.useallfive.com/
+
+
+- Simple Guidelines When You Design for Mobile, Interaction Design Foundation
+  https://www.interaction-design.org/literature/article/designing-for-the-mobile-environment-some-simple-guidelines
+
+- Assistive technology demonstrations, Vision Australia
+ https://www.visionaustralia.org/business-consulting/digital-access/resources/assistive-technology-demonstrations
 
 #### COGNITIVE ACCESSIBILITY: 
 
@@ -254,6 +297,14 @@ https://ishadeed.com/article/container-queries-are-finally-here/
 - Day 56: container queries, by Manuel Matuzović
 https://www.matuzo.at/blog/2022/100daysof-day56/
 
+#### ANIMATION:
+
+- The ultimate guide to proper use of animation in UX, Taras Skytskyi
+    https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9
+
+- UI Animation—How to Apply Disney’s 12 Principles of Animation to UI Design, Laia Tremosa 
+    https://www.interaction-design.org/literature/article/ui-animation-how-to-apply-disney-s-12-principles-of-animation-to-ui-design
+
 
 ### INTEROP PROJECT:
 
@@ -286,7 +337,6 @@ https://github.com/alyssapanetta/developing-a-disability/
 
 @springbroken on Twitter
 @alyssa@drupal.community on Mastadon
-apanetta.bsky.social
 
 apanetta@albany.edu
 
