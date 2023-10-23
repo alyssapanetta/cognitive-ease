@@ -16,12 +16,16 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EfksrUWH
     https://dev.to/5t3ph/guide-to-css-units-for-relational-spacing-1mj5
     - Accessible Typography Essentials (video - requires registration), Carie Fisher
     https://www.deque.com/axe-con/sessions/accessible-typography-essentials/
+    - Responsive type scales with composable CSS utilities, Tobias Ahlin
+    https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/
 
   - **USE THESE UTILITIES**
     - UTOPIA. Fluid Responsive Design, James Gilyead & Trys Mudford
       - Introduction Video: https://utopia.fyi/blog/an-introduction-video
       - Fluid Type Scale Calculator: https://utopia.fyi/type/calculator
       - Fluid Space Calculator: https://utopia.fyi/space/calculator
+      - *New* Clamp() Calculator: https://utopia.fyi/clamp/calculator
+
     - Type Scale: A Visual Calculator: https://typescale.com/
     - clamp() Calculator: https://chrisburnell.com/clamp-calculator/
 ### Convert a Page Layout to CSS Grid and Math
@@ -56,9 +60,6 @@ https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EfksrUWH
       - Introduction Video: https://utopia.fyi/blog/an-introduction-video
       - Fluid Grid Calculator: https://utopia.fyi/grid/calculator
 
-
-
- 
 
 ### Add preference queries
   - Preference Queries, Stephanie Eckles
@@ -161,21 +162,46 @@ https://www.d.umn.edu/itss/training/online/webdesign/webdev_listserv.html
 - Building for the Brain: designing for cognitive inclusion, Microsoft Ability Summit 2023. Presenters: Cathy Bodin | Coleman Institute for Cognitive Disabilities, Christina Mallon | Microsoft, Doug Kim | Microsoft, Jen White-Johnson
 https://abilitysummit.event.microsoft.com/#sectionOuter11
 
-- Neurodiversity Design System, Will Soward
- https://neurodiversity.design
+- Cognitive Load Theory Explained, IDOL courses
+ https://www.youtube.com/watch?v=i1Gck0-tpno
 
-- Accessibility Training Experience Lab: Cognitive Exercises, Minnesota IT Services 
- https://mn.gov/mnit/about-mnit/accessibility/training/experience-lab/cognitive.jsp
+- The Negative Impact of Mobile-First Web Design on Desktop, Kim Salazar, Tim Neusesser and Nishi Chitale [Nielsen Norman Group]
+https://www.nngroup.com/articles/content-dispersion/
+
+- Content Dispersion: Study Methodology, Kim Salazar, Tim Neusesser and Nishi Chitale [Nielsen Norman Group] 
+https://www.nngroup.com/articles/content-dispersion-methodology/
+
+- Increase Readability, Reduce Cognitive Load: Freeing Working Memory for Processing Meaning, Meaghan Crowley-Sullivan, M.Ed., M.A.
+https://readabilitymatters.org/articles/increase-readability-reduce-cognitive-load
 
 - Designing for Accessibility: How Text Resizing Works in Different Web Browsers, Ian Savchenko
  https://medium.com/paypal-tech/designing-for-accessibility-how-text-resizing-works-in-different-web-browsers-bed9e424e071
 
-- Accessible Target Sizes, Lupe, Craft CMS
- https://craftcms.com/blog/accessible-target-sizes
-
 - UX Principles that include Cognitive Accessibility, Gareth Ford Williams
 https://uxdesign.cc/adhd-dyslexic-perspective-on-cognitive-accessibility-using-cognitive-ux-design-principles-f46349a609d6
 
+- Accessibility Training Experience Lab: Cognitive Exercises, Minnesota IT Services 
+ https://mn.gov/mnit/about-mnit/accessibility/training/experience-lab/cognitive.jsp
+
+- Neurodiversity Design System, Will Soward
+ https://neurodiversity.design
+- Accessible Target Sizes, Lupe, Craft CMS
+ https://craftcms.com/blog/accessible-target-sizes
+
+- Photosensitive Epilepsy Analysis Tool (PEAT), Trace RERC, University of Maryland
+ https://trace.umd.edu/peat/
+
+- Form accessibility and usability beyond the basics, Whitney Lewis
+https://blog.pope.tech/2023/09/26/form-accessibility-and-usability-beyond-the-basics/
+
+- ARIA, the good parts, Hidde de Vries
+https://talks.hiddedevries.nl/hDiDOG
+
+- Nine things automated accessibility tests can’t test, Dave Rupert
+https://daverupert.com/2023/10/nine-a11y-jobs-where-robots-suck/
+
+- Voice User Interfaces: Seamless Interactions, Morrison Kristan
+https://www.uxmatters.com/mt/archives/2023/10/voice-user-interfaces-seamless-interactions.php
 
 ### HTML:
  - Learn HTML! web.dev course, Estelle Weyl with input and review from Rachel Andrew and Jhey Tompkins
@@ -204,6 +230,7 @@ https://uxdesign.cc/adhd-dyslexic-perspective-on-cognitive-accessibility-using-c
   - Fluid Type Scale Calculator: https://utopia.fyi/type/calculator
   - Fluid Space Calculator: https://utopia.fyi/space/calculator
   - Fluid Grid Calculator: https://utopia.fyi/grid/calculator
+  - *New* Clamp() Calculator: https://utopia.fyi/clamp/calculator
 
   - Visual design rules you can safely follow every time, Anthony Hobday
     https://anthonyhobday.com/sideprojects/saferules/
