@@ -1,12 +1,12 @@
 # cognitive-ease
-Notes and Resources for talk "Redesigning for Cognitive Ease" as presented at a11yTO 
+Notes and Resources for talk "Redesigning for Cognitive Ease" as presented at a11yTO and 3Play Media
 
 ## SLIDES:
 
 Redesigning for Cognitive Ease - a11yTO - 2023, Alyssa Panetta
 https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EfksrUWHeeVMrgtf-ciM41sB2RNzlKOnKr7hxO-XiI6LhA
 
-Redesigning for Cognitive Ease - 3play Media - 2023, Alyssa Panetta
+Redesigning for Cognitive Ease - 3Play Media - 2023, Alyssa Panetta
 https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EQ52dAMIOGRNjiN_QHPNl8EBrL_RcohQZOIc4tb5UbYMwQ?e=PNA7sl
 
 ## Possible Upgrades, slide 45:
