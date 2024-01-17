@@ -14,7 +14,7 @@ http://tinyurl.com/cognitive-ease-3play
 
 Recording: https://www.3playmedia.com/resources/recorded-webinars/wbnr-11-09-2023-cognitive-ease/
 
-## Possible Upgrades, slide 45 (57 for UMN):
+## Possible Upgrades, slide 51 for UMN; slide 45 a11yTO and 3Play:
 
 ### Convert Type and Spacing to Flexible Units 
   - **LEARN**
