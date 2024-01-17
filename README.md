@@ -4,7 +4,7 @@ Notes and Resources for talk "Redesigning for Cognitive Ease" as presented at UM
 ## SLIDES & RECORDINGS:
 
 **Redesigning for Cognitive Ease - UMN - 2024**, Alyssa Panetta
-http://tinyurl.com/cognitive-ease-umn​
+http://tinyurl.com/cognitive-ease-umnaa
 
 Redesigning for Cognitive Ease - a11yTO - 2023, Alyssa Panetta
 http://tinyurl.com/cognitive-ease-a11yTO
@@ -14,7 +14,7 @@ http://tinyurl.com/cognitive-ease-3play
 
 Recording: https://www.3playmedia.com/resources/recorded-webinars/wbnr-11-09-2023-cognitive-ease/
 
-## Possible Upgrades, slide 45:
+## Possible Upgrades, slide 45 (57 for UMN):
 
 ### Convert Type and Spacing to Flexible Units 
   - **LEARN**
