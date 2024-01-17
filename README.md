@@ -1,13 +1,16 @@
 # cognitive-ease
-Notes and Resources for talk "Redesigning for Cognitive Ease" as presented at a11yTO and 3Play Media
+Notes and Resources for talk "Redesigning for Cognitive Ease" as presented at UMN Accessibility Ambassadors, a11yTO and 3Play Media
 
 ## SLIDES & RECORDINGS:
 
+**Redesigning for Cognitive Ease - UMN - 2024**, Alyssa Panetta
+http://tinyurl.com/cognitive-ease-umn​
+
 Redesigning for Cognitive Ease - a11yTO - 2023, Alyssa Panetta
-https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EfksrUWHeeVMrgtf-ciM41sB2RNzlKOnKr7hxO-XiI6LhA
+http://tinyurl.com/cognitive-ease-a11yTO
 
 Redesigning for Cognitive Ease - 3Play Media - 2023, Alyssa Panetta
-https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EQ52dAMIOGRNjiN_QHPNl8EBrL_RcohQZOIc4tb5UbYMwQ?e=PNA7sl
+http://tinyurl.com/cognitive-ease-3play
 
 Recording: https://www.3playmedia.com/resources/recorded-webinars/wbnr-11-09-2023-cognitive-ease/
 
@@ -35,6 +38,10 @@ Recording: https://www.3playmedia.com/resources/recorded-webinars/wbnr-11-09-202
     - clamp() Calculator: https://chrisburnell.com/clamp-calculator/
 ### Convert a Page Layout to CSS Grid and Math
   - **LEARN**
+
+    - An Interactive Guide to CSS Grid, Josh W. Comeau
+      https://www.joshwcomeau.com/css/interactive-guide-to-grid/
+
     - Grid by Example, Rachel Andrew
       https://gridbyexample.com/
 
@@ -208,6 +215,9 @@ https://daverupert.com/2023/10/nine-a11y-jobs-where-robots-suck/
 - Voice User Interfaces: Seamless Interactions, Morrison Kristan
 https://www.uxmatters.com/mt/archives/2023/10/voice-user-interfaces-seamless-interactions.php
 
+- Squint Test, Nielsen Norman Group
+https://www.nngroup.com/videos/squint-test/
+
 ### HTML:
  - Learn HTML! web.dev course, Estelle Weyl with input and review from Rachel Andrew and Jhey Tompkins
     https://web.dev/learn/html/
@@ -229,13 +239,13 @@ https://www.uxmatters.com/mt/archives/2023/10/voice-user-interfaces-seamless-int
 
 ### CSS:
    
-- UTOPIA. Fluid Responsive Design. 
+  - UTOPIA. Fluid Responsive Design. 
  https://utopia.fyi/
-  - Introduction Video: https://utopia.fyi/blog/an-introduction-video
-  - Fluid Type Scale Calculator: https://utopia.fyi/type/calculator
-  - Fluid Space Calculator: https://utopia.fyi/space/calculator
-  - Fluid Grid Calculator: https://utopia.fyi/grid/calculator
-  - *New* Clamp() Calculator: https://utopia.fyi/clamp/calculator
+    - Introduction Video: https://utopia.fyi/blog/an-introduction-video
+    - Fluid Type Scale Calculator: https://utopia.fyi/type/calculator
+    - Fluid Space Calculator: https://utopia.fyi/space/calculator
+    - Fluid Grid Calculator: https://utopia.fyi/grid/calculator
+    - *New* Clamp() Calculator: https://utopia.fyi/clamp/calculator
 
   - Visual design rules you can safely follow every time, Anthony Hobday
     https://anthonyhobday.com/sideprojects/saferules/
@@ -248,6 +258,9 @@ https://www.uxmatters.com/mt/archives/2023/10/voice-user-interfaces-seamless-int
 
   - Learn Box Alignment, Ahmad Shadeed
   https://ishadeed.com/article/learn-box-alignment/
+
+  - Designing better target sizes, Ahmad Shadeed
+  https://ishadeed.com/article/target-size/
 
   - 100 Days Of More Or Less Modern CSS, Manuel Matuzović
   https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/
