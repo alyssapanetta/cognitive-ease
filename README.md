@@ -1,5 +1,5 @@
 # cognitive-ease
-Notes and Resources for talk "Redesigning for Cognitive Ease" as presented at UMN Accessibility Ambassadors, a11yTO and 3Play Media
+Notes and Resources for talk "Redesigning for Cognitive Ease" as presented at SUNY OLIS, UMN Accessibility Ambassadors, a11yTO and 3Play Media
 
 ## SLIDES & RECORDINGS:
 
