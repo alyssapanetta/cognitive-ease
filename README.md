@@ -3,7 +3,10 @@ Notes and Resources for talk "Redesigning for Cognitive Ease" as presented at UM
 
 ## SLIDES & RECORDINGS:
 
-**Redesigning for Cognitive Ease - UMN - 2024**, Alyssa Panetta
+**Redesigning for Cognitive Ease - SUNY OLIS - 2024**, Alyssa Panetta
+https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/EWClM3HAvXVOots7oTbeoMoBY1P3DSw4nqhRbWAZhdvJog
+
+Redesigning for Cognitive Ease - UMN - 2024, Alyssa Panetta
 http://tinyurl.com/cognitive-ease-umnaa
 
 Redesigning for Cognitive Ease - a11yTO - 2023, Alyssa Panetta
@@ -14,7 +17,7 @@ http://tinyurl.com/cognitive-ease-3play
 
 Recording: https://www.3playmedia.com/resources/recorded-webinars/wbnr-11-09-2023-cognitive-ease/
 
-## Possible Upgrades, slide 51 for UMN; slide 45 a11yTO and 3Play:
+## Possible Upgrades, slide 43 for SUNY OLIS; slide 51 UMN; slide 45 a11yTO and 3Play:
 
 ### Convert Type and Spacing to Flexible Units 
   - **LEARN**
@@ -26,6 +29,8 @@ Recording: https://www.3playmedia.com/resources/recorded-webinars/wbnr-11-09-202
     https://www.deque.com/axe-con/sessions/accessible-typography-essentials/
     - Responsive type scales with composable CSS utilities, Tobias Ahlin
     https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/
+    - Increase Readability, Reduce Cognitive Load: Freeing Working Memory for Processing Meaning, Meaghan Crowley-Sullivan
+    https://readabilitymatters.org/articles/increase-readability-reduce-cognitive-load
 
   - **USE THESE UTILITIES**
     - UTOPIA. Fluid Responsive Design, James Gilyead & Trys Mudford
@@ -42,8 +47,8 @@ Recording: https://www.3playmedia.com/resources/recorded-webinars/wbnr-11-09-202
     - An Interactive Guide to CSS Grid, Josh W. Comeau
       https://www.joshwcomeau.com/css/interactive-guide-to-grid/
 
-    - Grid by Example, Rachel Andrew
-      https://gridbyexample.com/
+    - Grid by Example, Rachel Andrew 
+      https://gridbyexample.com/ 
 
     - Layout Land (youtube channel), Jen Simmons
       https://www.youtube.com/layoutland
@@ -66,11 +71,17 @@ Recording: https://www.3playmedia.com/resources/recorded-webinars/wbnr-11-09-202
     - Use Cases For Flexbox, Rachel Andrew 
       https://www.smashingmagazine.com/2018/10/flexbox-use-cases/
 
+    - An Interactive Guide to Flexbox, Josh W. Comeau
+      https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
+
+
   - **USE THIS UTILITY**
     - UTOPIA. Fluid Responsive Design, James Gilyead & Trys Mudford
     https://utopia.fyi/
       - Introduction Video: https://utopia.fyi/blog/an-introduction-video
       - Fluid Grid Calculator: https://utopia.fyi/grid/calculator
+    - CSS Grid Generator, Kristjan Retter
+      https://cssgridgenerator.io/
 
 
 ### Add preference queries
@@ -86,7 +97,8 @@ Recording: https://www.3playmedia.com/resources/recorded-webinars/wbnr-11-09-202
 
 
 ### Migrate from media queries to container queries
-
+ - A Friendly Introduction to Container Queries, Josh W. Comeau
+      https://www.joshwcomeau.com/css/container-queries-introduction/
  - The Guide To Responsive Design In 2023 and Beyond, Ahmad Shadeed
       https://ishadeed.com/article/responsive-design/
  - A Primer On CSS Container Queries, Stephanie Eckles
@@ -97,6 +109,8 @@ Recording: https://www.3playmedia.com/resources/recorded-webinars/wbnr-11-09-202
       https://codepen.io/collection/XQrgJo
  - CSS container queries are finally here, Ahmad Shadeed
     https://ishadeed.com/article/container-queries-are-finally-here/
+ - Beyond CSS Media Queries, Juan Diego Rodríguez
+    https://www.smashingmagazine.com/2024/05/beyond-css-media-queries/
 
 
 
@@ -218,6 +232,9 @@ https://www.uxmatters.com/mt/archives/2023/10/voice-user-interfaces-seamless-int
 - Squint Test, Nielsen Norman Group
 https://www.nngroup.com/videos/squint-test/
 
+- Making the Web Accessible: A Focus on Cognitive Disabilities, Melissa Morse
+https://www.tpgi.com/making-the-web-accessible-a-focus-on-cognitive-disabilities/
+
 ### HTML:
  - Learn HTML! web.dev course, Estelle Weyl with input and review from Rachel Andrew and Jhey Tompkins
     https://web.dev/learn/html/
@@ -329,7 +346,6 @@ https://github.com/alyssapanetta/developing-a-disability/
 
 ## Feel free to reach out anytime
 
-@springbroken on Twitter
 @alyssa@drupal.community on Mastadon
 apanetta.bsky.social
 
